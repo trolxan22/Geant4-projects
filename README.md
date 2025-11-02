@@ -1,4 +1,4 @@
-# Geant4 2 muon detector Project
+# Geant4 muon detector Project
 
 ## description
 This Geant4 application simulates the response of a modular scintillator detector system under different particle beams.  
