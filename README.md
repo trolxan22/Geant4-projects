@@ -1,6 +1,6 @@
-# My Geant4 Project
+# Geant4 2 muon detector Project
 
-## Short description
+## description
 This Geant4 application simulates the response of a modular scintillator detector system under different particle beams.  
 It includes a detailed `DetectorConstruction` class defining the experimental geometry, materials, and sensitive volumes used for energy deposition studies in the **analysis** module.
 
